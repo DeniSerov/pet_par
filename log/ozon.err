@@ -1,0 +1,29 @@
+2024-01-31 17:40:10 https://www.ozon.ru/ Line_error = 88, type_error = Message: unknown error: cannot connect to chrome at 127.0.0.1:52435
+from session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 121.0.6167.139
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004278B3+2193587]
+	Ordinal0 [0x003C0681+1771137]
+	Ordinal0 [0x002D41A8+803240]
+	Ordinal0 [0x002F5CC3+941251]
+	Ordinal0 [0x002EECFD+912637]
+	Ordinal0 [0x002EEAD6+912086]
+	Ordinal0 [0x003223B0+1123248]
+	Ordinal0 [0x0032200A+1122314]
+	Ordinal0 [0x0031D5C6+1103302]
+	Ordinal0 [0x002F77E0+948192]
+	Ordinal0 [0x002F86E6+952038]
+	GetHandleVerifier [0x006D0CB2+2738370]
+	GetHandleVerifier [0x006C21B8+2678216]
+	GetHandleVerifier [0x004B17AA+512954]
+	GetHandleVerifier [0x004B0856+509030]
+	Ordinal0 [0x003C743B+1799227]
+	Ordinal0 [0x003CBB68+1817448]
+	Ordinal0 [0x003CBC55+1817685]
+	Ordinal0 [0x003D5230+1856048]
+	BaseThreadInitThunk [0x7704FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A67A6E+238]
+
+
